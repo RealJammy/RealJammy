@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Isaiah R., a 14 year old forensics, open source intelligence, cyber security and python developmemt enthusiast.
+### I'm Isaiah R., a 15 year old forensics, open source intelligence, cyber security and python developmemt enthusiast.
 
 - 🔭 I’m currently working on cool projects for my CTF team, [The WINRaRs](https://ctftime.org/team/113086)
 - 🌱 I’m currently learning how to use markdown
