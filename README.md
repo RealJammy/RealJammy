@@ -21,10 +21,6 @@
 <br />
 <br />
 
-### Recently I'm coding in...
 
-<a href="https://codestats.net/users/RealJammy">
-  <img src='https://codestats-readme.wegfan.cn/history-graph/RealJammy?width=850&height=300&timezone=00:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="RealJammy's Code::Stats history graph" />
-</a>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RealJammy.RealJammy)
