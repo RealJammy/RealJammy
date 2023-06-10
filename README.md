@@ -3,7 +3,6 @@
 ### I'm Isaiah R., a 17 year old forensics, open source intelligence, cyber security and python development enthusiast.
 
 - 🔭 I’m currently working on cool projects for my CTF team, [The WINRaRs](https://ctftime.org/team/113086)
-- 👯 I’m looking to collaborate on my discord bot, [The Jambot](https://github.com/RealJammy/The-Jambot)
 - 📫 How to reach me: [Twitter](https://twitter.com/CaptureTheJam)
 - ⚡ Fun fact: I own a DJUNGELSKOG!
 -->
