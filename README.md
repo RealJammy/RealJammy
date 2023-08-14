@@ -2,8 +2,8 @@
 
 ### I'm Isaiah R., a 17 year old forensics, open source intelligence, cyber security and python development enthusiast.
 
-- 🔭 I’m currently working on cool projects for my CTF team, [The WINRaRs](https://ctftime.org/team/113086)
-- 📫 How to reach me: [Twitter](https://twitter.com/CaptureTheJam)
+- 🔭 I’m currently working on cool projects for my CTF team, [Crusaders of Rust](https://github.com/Crusaders-of-Rust)
+- 📫 How to reach me: [Twitter](https://twitter.com/CaptureTheJam) or Discord @jamtothebeat
 - ⚡ Fun fact: I own a DJUNGELSKOG!
 -->
 
